@@ -2,7 +2,7 @@
 
 Web Developer from Indonesia.
 
-![](https://github-readme-stats.vercel.app/api?username=M.Ichsan&hide_border=true&bg_color=0000&text_color=7494EA&title_color=7494EA)
+![](https://github-readme-stats.vercel.app/api?username=MIchsan&hide_border=true&bg_color=0000&text_color=7494EA&title_color=7494EA)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoptarigan&layout=compact&hide_border=true&bg_color=0000&text_color=7494EA&title_color=7494EA)
 
 
